@@ -1,4 +1,5 @@
 # loadjs
+
 Loading javascript when the Dom loaded
 
 You can execute code after the Script has loaded:
@@ -15,6 +16,7 @@ How to use:
         jsIndex      : 0,  //set default
         sequenceSync : true  //false is async  true is sync;
     })
+    
 </script>
 ...
 </head>
